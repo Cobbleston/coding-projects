@@ -1,0 +1,51 @@
+header {
+    width: 100%;
+    height: fit-content;
+    background-color: green;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#banner-img {
+    width: 75%;
+    margin: 1%;
+}
+
+#logo-img {
+    width: 15%;
+    margin: 1%;
+}
+
+footer {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+}
+
+#segretera {
+    margin: auto;
+}
+#luogo {
+    margin: auto;
+}
+
+#contatti {
+    margin: auto;
+}
+
+#entra {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: auto;
+    background-color: greenyellow;
+    position: center;
+    justify-content: center;
+    align-items: center;
+}
+
+#entra p {
+    margin: 0%;
+}
